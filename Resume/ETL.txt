@@ -1,0 +1,84 @@
+extract.py
+extract class and open all csv, json, mysql, mongo, xml functions
+
+transform.py
+transaction class and display first 10 records - head, display lost 10 records - tail, rename single column, rename multiple colem, remove single column, remove multiple column
+
+load.py
+load class and open all csv, json, mysql, mongo, xml functions
+
+extract-CSV-main.py
+open csv fil and display first record
+extract-JSON-main.py
+open json file and display records and counts
+extract-MONGO-main.py
+open MONGO database display 2 columns
+extract-MYSQL-main.py
+open MYSQL database and display records and counts
+extract-XML-main.py
+open XML file display information
+
+trans-CSV-main.py
+round price
+open csv file rename multiple column and display
+trans-JSON-main.py
+open json file remove multiple column and display
+trans-MONGO-main.py
+open database display top 10 records
+trans-MYSQL-main.py
+open database rename multiple columns and display
+
+load-CSV-to-CSV-main.py
+ open csv file copy it and save another csv file
+load-CSV-to-JSON-main.py
+open csv file copy it and save json file
+load-CSV-to-MONGO-main.py
+open csv file copy it and save MONGO database
+load-CSV-to-MYSQL-main.py
+open csv file copy it and save MYSQL database
+
+date-validity.py
+open csv file check the date then store another csv file 
+listing duplicates
+check the duplicates and display
+removing-duplicates.py
+open csv file removing duplicates then store another csvfile
+
+also
+removing-column-CSV-to-CSV.py
+ Removing an Attribute CSV to CSV
+ Write a Python program that performs the following tasks:
+ •• Prompts the user for the path of an existing CSV file and an attribute in that file
+ •• Reads the data from the file
+ •• Removes the specified attribute
+ •• Saves the transformed data to a new CSV file
+ 
+ renaming-column-CSV-to-CSV.py
+  Renaming an Attribute CSV to CSV
+ Write a Python program that performs the following tasks:
+  •• Prompts the user for the path of an existing CSV file, an attribute in that file, and a
+  new name for the same attribute
+  •• Reads the data from the file
+  •• Renames the specified attribute
+  •• Saves the transformed data to a new CSV file
+ 
+ CSV-to-CSV-user-input.py 
+ Transforming CSV to CSV
+ Write a Python program that prompts the user for the path of an existing CSV file and 
+ copies the data from that file into a new CSV file.
+
+ CSV-to-JSON-user-input.py 
+ Transforming CSV to JSON
+ Write a Python program that prompts the user for the path of an existing CSV file and 
+ copies the data from that file into a new JSON file.
+
+ JSON-to-CSV-user-input.py 
+ Transforming JSON to CSV
+ Write a Python program that prompts the user for the path of an existing JSON file and
+ copies the data from that file into a new CSV file.
+  
+ JSON-to-JSON-user-input.py
+Transforming JSON to JSON
+Write a Python program that prompts the user for the path of an existing JSON file and
+copies the data from that file into a new JSON file.
+  

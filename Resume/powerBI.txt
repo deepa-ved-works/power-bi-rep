@@ -1,0 +1,19 @@
+AdventureWork Sales
+--------------------
+Sales Amount and Sales by Due Date by Month Report
+Order Quantity by Country-Region
+Sales Amount by Category and Business Type
+
+Mega Mart
+----------
+Revenue by Zone
+Revenue by Gender
+Revenue by EducationalLevel
+Units by Zone
+Subcategory wise Data
+
+Finance Report
+---------------
+Profit by Date
+Profit by Country
+Sales by Product and Segment
